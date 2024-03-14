@@ -1,4 +1,4 @@
-Double Pendulum Simulation Program
+#Double Pendulum Simulation Program
 
 Produced by Haris Curic
 
@@ -20,3 +20,7 @@ Prompt will ask to input following parameters:
 After inputing parameters program will numerically solve the problem (check PhysicsSolution.pdf) and create the animation
 
 Credits to prof. John Zelle for graphics.py easy graphics library
+
+
+![Simulation Snip 2](/Capture2.PNG)
+![Simulation Snip 3](/Capture3.PNG)
