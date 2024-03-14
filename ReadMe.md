@@ -1,4 +1,4 @@
-#Double Pendulum Simulation Program
+# Double Pendulum Simulation Program
 
 Produced by Haris Curic
 
