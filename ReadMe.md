@@ -22,5 +22,7 @@ After inputing parameters program will numerically solve the problem (check Phys
 Credits to prof. John Zelle for graphics.py easy graphics library
 
 
+![Simulation Snip 4](/Animation.gif)
+
 ![Simulation Snip 2](/Capture2.PNG)
 ![Simulation Snip 3](/Capture3.PNG)
